@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\proj3_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\functions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions\F_Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\functions\F_Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functions\F_Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\functions\F_Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Sales$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Sales$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Spark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Spark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Init_Cleaning\Spark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\Init_Cleaning\Spark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql\Total_Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\sql\Total_Customer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sql\Total_Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\21264\IdeaProjects\Spark_With_Scala\proj3\target\scala-2.12\classes\sql\Total_Customer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
