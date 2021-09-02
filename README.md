@@ -1,3 +1,3 @@
 # Spark_With_Scala
 
-Manipualation of data with Spark using Dataframes and Datasets.
+Manipulation of data with Spark using Dataframes and Datasets.
